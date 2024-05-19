@@ -1,4 +1,4 @@
-#List creation                                                                                                  TASK 1 COMPLETED    by P Rama Charan (11777) 
+#List creation                                                                              TASK 1 COMPLETED    by P Rama Charan (11777) 
 
 lst = list() # or []
 print(lst)
